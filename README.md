@@ -15,3 +15,14 @@ The project will involve the following tasks:
 
 The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked."
 
+
+Outcome: 
+
+K-Means Clustering: The silhouette score for K-Means clustering with four clusters is approximately 0.262, indicating a fair amount of separation between clusters
+
+Hierarchical Clustering Performance: Hierarchical clustering with five clusters yielded a silhouette score of approximately 0.233, which is lower than K-Means, suggesting less distinction between the clusters
+
+Comparative Cluster Quality: While both clustering methods achieved positive silhouette scores, indicating that on average, samples are closer to their own clusters than to others, K-Means clustering performed slightly better according to this metric
+
+Dominant First Component: The first principal component alone accounts for approximately 44.8% of the variance, indicating a strong underlying factor or combination of features
+
